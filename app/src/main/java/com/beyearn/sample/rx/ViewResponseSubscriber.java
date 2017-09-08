@@ -1,7 +1,7 @@
 package com.beyearn.sample.rx;
 
 
-import com.beyearn.sample.base.IBaseView;
+import com.beyearn.sample.interfaces.view.IBaseView;
 import com.beyearn.sample.bean.JsonResponse;
 import com.beyearn.sample.exception.ApiException;
 import com.orhanobut.logger.Logger;

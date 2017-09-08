@@ -7,7 +7,6 @@ import android.view.View;
 
 import com.beyearn.sample.R;
 import com.beyearn.sample.app.UserManager;
-import com.beyearn.sample.base.BaseFragment;
 import com.beyearn.sample.bean.SystemInfo;
 import com.beyearn.sample.bean.User;
 import com.beyearn.sample.interfaces.view.GetUserView;

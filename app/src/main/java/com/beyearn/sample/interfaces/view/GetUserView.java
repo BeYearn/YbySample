@@ -1,7 +1,6 @@
 package com.beyearn.sample.interfaces.view;
 
 
-import com.beyearn.sample.base.IBaseView;
 import com.beyearn.sample.bean.User;
 
 /**

@@ -1,4 +1,4 @@
-package com.beyearn.sample.base;
+package com.beyearn.sample.ui.fragment;
 
 import android.content.Context;
 import android.content.Intent;
@@ -8,6 +8,8 @@ import android.view.View;
 import android.view.ViewGroup;
 
 import com.beyearn.sample.R;
+import com.beyearn.sample.interfaces.view.IBaseView;
+import com.beyearn.sample.ui.activity.BaseActivity;
 import com.trello.rxlifecycle.LifecycleTransformer;
 import com.trello.rxlifecycle.components.support.RxFragment;
 

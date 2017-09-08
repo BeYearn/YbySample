@@ -1,4 +1,4 @@
-package com.beyearn.sample.base;
+package com.beyearn.sample.adapter;
 
 import android.support.v4.app.Fragment;
 import android.support.v4.app.FragmentManager;

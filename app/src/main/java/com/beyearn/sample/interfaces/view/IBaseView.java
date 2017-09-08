@@ -1,4 +1,4 @@
-package com.beyearn.sample.base;
+package com.beyearn.sample.interfaces.view;
 
 import android.content.Context;
 import android.content.Intent;

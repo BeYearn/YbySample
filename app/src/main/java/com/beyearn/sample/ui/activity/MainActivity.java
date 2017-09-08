@@ -7,8 +7,7 @@ import android.widget.RadioButton;
 import android.widget.RadioGroup;
 
 import com.beyearn.sample.R;
-import com.beyearn.sample.base.BaseActivity;
-import com.beyearn.sample.base.CustomFragmentPagerAdapter;
+import com.beyearn.sample.adapter.CustomFragmentPagerAdapter;
 import com.beyearn.sample.ui.fragment.Fragment1;
 import com.beyearn.sample.ui.fragment.Fragment2;
 import com.beyearn.sample.utils.ToastHelper;

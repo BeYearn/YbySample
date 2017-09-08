@@ -1,4 +1,4 @@
-package com.beyearn.sample.base;
+package com.beyearn.sample.ui.activity;
 
 import android.app.ProgressDialog;
 import android.content.Context;
@@ -13,7 +13,7 @@ import android.widget.Toast;
 
 import com.beyearn.sample.R;
 import com.beyearn.sample.app.ActivityManager;
-import com.beyearn.sample.ui.activity.MainActivity;
+import com.beyearn.sample.interfaces.view.IBaseView;
 import com.beyearn.sample.ui.widget.CustomProgress;
 import com.readystatesoftware.systembartint.SystemBarTintManager;
 import com.trello.rxlifecycle.LifecycleTransformer;

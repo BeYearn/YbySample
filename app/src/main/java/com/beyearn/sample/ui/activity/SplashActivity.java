@@ -11,7 +11,6 @@ import android.widget.ImageView;
 import com.beyearn.sample.R;
 import com.beyearn.sample.app.Constants;
 import com.beyearn.sample.app.service.SplashDownLoadService;
-import com.beyearn.sample.base.BaseActivity;
 import com.beyearn.sample.bean.Splash;
 import com.beyearn.sample.utils.SerializableUtils;
 import com.bumptech.glide.Glide;

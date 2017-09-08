@@ -1,9 +1,10 @@
-package com.beyearn.sample.base;
+package com.beyearn.sample.presenter;
 
 
 import android.text.TextUtils;
 
 import com.beyearn.sample.app.ApiManager;
+import com.beyearn.sample.interfaces.view.IBaseView;
 import com.beyearn.sample.bean.JsonResponse;
 import com.beyearn.sample.rx.JsonResponseFunc;
 import com.beyearn.sample.utils.MyStringUtils;

@@ -1,4 +1,4 @@
-package com.beyearn.sample.base;
+package com.beyearn.sample.presenter.http;
 
 
 import com.beyearn.sample.app.ApiManager;

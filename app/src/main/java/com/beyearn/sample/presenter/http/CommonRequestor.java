@@ -2,7 +2,6 @@ package com.beyearn.sample.presenter.http;
 
 
 import com.beyearn.sample.api.CommonApi;
-import com.beyearn.sample.base.BaseRequestor;
 import com.beyearn.sample.bean.Splash;
 import com.beyearn.sample.interfaces.RequestResponse;
 import com.beyearn.sample.rx.RequestResponseSubscriber;

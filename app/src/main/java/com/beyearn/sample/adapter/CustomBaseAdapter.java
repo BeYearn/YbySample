@@ -1,4 +1,4 @@
-package com.beyearn.sample.base;
+package com.beyearn.sample.adapter;
 
 import android.content.Context;
 import android.view.LayoutInflater;

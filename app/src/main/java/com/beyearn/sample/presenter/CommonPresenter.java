@@ -3,7 +3,6 @@ package com.beyearn.sample.presenter;
 import android.util.Log;
 
 import com.beyearn.sample.api.CommonApi;
-import com.beyearn.sample.base.BasePresenter;
 import com.beyearn.sample.bean.SystemInfo;
 import com.beyearn.sample.bean.User;
 import com.beyearn.sample.interfaces.view.GetUserView;
